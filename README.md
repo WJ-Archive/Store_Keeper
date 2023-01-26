@@ -4,3 +4,4 @@
 <p align="left";>
 <img src="https://github.com/WJ-Archive/PF_Main/blob/main/PF_store_keeper/img/res/res.PNG"/>
 </p>
+> 원본 yolov4 tracking github : https://github.com/theAIGuysCode/yolov4-deepsort.git
